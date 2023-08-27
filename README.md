@@ -6,7 +6,7 @@
 
 `SEMESTRE`: Eixo 3
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto de desenvolvimento de uma aplicação mobile que irá permitir que os usuários troquem ou vendam livros dos seus acervos pessoais. 
 
 ## Integrantes
 
