@@ -10,14 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+Talita Reis dos Santos Pereira
+Jonathan Costa
+Renato Freitas
+Remilton Júnior 
+Rafael Fernando de Brito Oliveira
+Marcelo Ferreira
 
 ## Orientador
 
-* Nome completo do professor 1
+Udo Fritzke Jr.
 
 ## Instruções de utilização
 
