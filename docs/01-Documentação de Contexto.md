@@ -1,46 +1,24 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A era contemporânea tem sido profundamente influenciada pela ascendência da tecnologia, redefinindo interações sociais, padrões econômicos e comportamentos culturais. O surgimento dos dispositivos móveis e o avanço dos aplicativos delinearam novos horizontes para otimizar uma série de atividades humanas. Neste contexto, emerge a proposta de desenvolver um aplicativo móvel inovador, voltado para a negociação de livros. Este projeto visa conceber uma plataforma acessível e intuitiva que viabilize a compra e venda de livros, tanto novos quanto usados, em um ambiente que se assemelha a um marketplace. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O âmago da problemática abordada por este projeto é a lacuna existente no mercado em relação à falta de uma plataforma eficiente para intermediar a negociação de livros entre indivíduos. Inúmeras pessoas possuem livros em suas estantes, que podem ser tanto obras já lidas quanto novas aquisições, que poderiam ser aproveitados por outros entusiastas da leitura. Além disso, observa-se uma carência no mercado de um espaço dedicado exclusivamente à compra e venda de livros, com uma abordagem moderna e interativa. A ausência de uma solução direcionada para essa demanda pode resultar em dificuldades na localização e obtenção de livros desejados, além de limitar a circulação eficiente desses recursos literários. 
 
 ## Objetivos
+O cerne deste projeto é a criação de um aplicativo móvel que funcione como um ambiente virtual para facilitar a negociação de livros. Para tanto, os objetivos específicos são: 
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+<ul><li>Desenvolver uma plataforma de fácil usabilidade que permita aos usuários cadastrar livros para venda, detalhando informações como título, autor, estado do livro e preço. 
+<li>Simplificar a busca e aquisição de livros por parte dos interessados, por meio da implementação de mecanismos de pesquisa avançados e categorização eficaz.  
+<li>Estabelecer um sistema de comunicação entre compradores e vendedores, permitindo o esclarecimento de dúvidas e a negociação direta.  
+<li>Introduzir um sistema de ofertas, possibilitando que os usuários apresentem propostas de compra para os livros disponíveis. 
+<li>Incentivar a criação de uma lista personalizada de livros desejados, de forma que os usuários sejam notificados quando esses títulos estiverem disponíveis. 
+<li>Fortalecer a confiabilidade da plataforma por meio da implementação de um sistema de avaliação e feedback entre os participantes. <ul/>
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A relevância deste projeto é solidificada pela crescente integração da tecnologia no cotidiano das pessoas. A plataforma proposta visa preencher uma lacuna no mercado ao oferecer um espaço virtual específico para a negociação de livros, incentivando a sustentabilidade ao prolongar a vida útil desses recursos literários. Além disso, o aplicativo promoverá a conexão entre leitores, fomentando uma comunidade em torno do compartilhamento de conhecimento e experiências literárias. Inspirado pela necessidade do mercado, este projeto se propõe a se tornar um ponto de referência no mundo digital para a compra e venda de livros, contribuindo para o acesso democrático à leitura e para a construção de um ambiente colaborativo. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público-alvo desse aplicativo abrange desde jovens entusiastas ansiosos por novas aventuras literárias até adultos experientes em busca de uma forma acessível e sustentável de expandir sua coleção de livros. Além disso, o app atrai amantes da leitura que valorizam a interação com outros membros da comunidade, desejam explorar uma diversidade de gêneros literários e buscam uma plataforma intuitiva para comprar, vender e trocar livros. Seja para quem busca lançamentos, clássicos ou obras especiais, o aplicativo oferece um espaço onde a paixão pela leitura se conecta com a possibilidade de compartilhar conhecimento e histórias. 
