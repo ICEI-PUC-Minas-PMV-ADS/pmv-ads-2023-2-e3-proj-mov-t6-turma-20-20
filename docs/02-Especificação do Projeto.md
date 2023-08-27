@@ -92,26 +92,148 @@ A matriz deve contemplar todos os elementos relevantes que fazem parte do sistem
 
 # Gerenciamento de Projeto
 
-De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Para desenvolver projetos um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. 
+
+A equipe está organizada da seguinte maneira: 
+Scrum Master: 
+* Jonathan Souza
+
+Product Owner: 
+* Talita Reis 
+
+Equipe de Desenvolvimento e Designer 
+* Jonathan Souza 
+* Marcelo Ferreira 
+* Rafael Brito 
+* Remilton Pereira 
+* Renato Freitas 
+* Talita Reis 
+
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:  
+
+* Recursos: esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões. 
+* Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
+* To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
+* Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
+* Test: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito. 
+* Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
+* Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
+
+O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/FauLE4j2/app-troca-venda-de-livros e é apresentado, no estado atual, na Figura X. A definição desta estrutura se baseou na proposta feita por Littlefield (2016). 
+
+<div align="center">
+  <img src="img/02-quadro-trello.png" alt="Tela do kanban utilizada pelo grupo" />
+  <p>Quadro Trello utilizado pela equipe</p>
+</div>
+
+<img src="img/02-quadro-tarefas.png" alt="Tarefas do quadro kanban" width="150px" />
+
+A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias: 
+* Desenvolvimento 
+* Documentação 
+* Impedimento 
+* Urgente 
+* Gerência de Projetos 
+* Testes 
 
 ## Gerenciamento de Tempo
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
+O objetivo desse plano é desenvolver e lançar a aplicação móvel de venda e troca de livros dentro do prazo estabelecido.  
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
+Atividades:  
+* Levantamento de Requisitos 
+* Design da Interface 
+* Desenvolvimento e Testes 
+* Correções e Aprimoramentos 
+* Documentação e Lançamento 
+
+Prazo: Início em 21 de Agosto e conclusão em 04 de Dezembro. 
+
+Responsáveis: 
+* Jonathan Souza (Desenvolvedor) 
+* Marcelo Ferreira (Desenvolvedor) 
+* Rafael Brito (Desenvolvedor) 
+* Remilton Pereira (Desenvolvedor) 
+* Renato Freitas (Desenvolvedor) 
+* Talita Reis (Desenvolvedora) 
+
+- Serão realizadas reuniões semanais para atualização de status e identificação de problemas. 
+- Uso de ferramentas de gerenciamento de projetos para rastrear o progresso (TRELLO). 
+- Atrasos no Desenvolvimento:  
+  Reservar duas semanas como buffer no final do cronograma review. 
+- Falta de Recursos:  
+  Revisar alocamento de recursos regularmente para evitar sobrecargas. 
+- Revisões: 
+  O cronograma será revisado a cada duas semanas durante as reuniões de status e ajustado conforme necessário. 
 
 O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
 
-![Gráfico de Gantt](img/02-grafico-gantt.png)
+![Gráfico de Gantt Dados](img/02-grafico-gantt-dados.png)
+![Gráfico de Gantt](img/02-ografico-gantt.png)
+## Plano de Gerenciamento de Recursos
 
-## Gerenciamento de Equipe
+Este Plano de Gerenciamento de Recursos tem como objetivo garantir que cada membro da equipe tenha papéis e responsabilidades claras, bem como os recursos necessários para executar suas tarefas com eficiência. A colaboração entre os desenvolvedores é fundamental para o sucesso da aplicação móvel de venda e troca de livros. 
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+Recursos Humanos:  
 
-![Simple Project Timeline](img/02-project-timeline.png)
+Atribuições 
+- Jonathan Souza (Desenvolvedor): Responsável pelo desenvolvimento backend da aplicação, integração de banco de dados. 
+- Marcelo Ferreira (Desenvolvedor): Responsável pelo desenvolvimento frontend da aplicação, design de interface. 
+- Rafael Brito (Desenvolvedor): Atuação no desenvolvimento frontend, colaboração no design da interface. 
+- Remilton Pereira (Desenvolvedor): Envolvimento no desenvolvimento backend e frontend, foco em usabilidade. 
+- Renato Freitas (Desenvolvedor): Contribuição no desenvolvimento backend e frontend, foco em testes. 
+- Talita Reis (Desenvolvedora): Participação no desenvolvimento frontend, usabilidade e testes. 
 
-## Gestão de Orçamento
+Recursos Tecnológicos: 
+- Equipamentos:
+Laptops para Desenvolvimento (6 unidades). 
+- Softwares:
+Licenças de IDEs e Ferramentas de Desenvolvimento:  
+- Treinamento e Desenvolvimento:
+Cursos Online e Workshops: Custo total fictício. 
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+Controle e Monitoramento: 
+- Reuniões Semanais de Status:  
+Monitoramento do progresso das atividades. 
+- Uso de Ferramentas de Gerenciamento de Projetos: 
+Manter tarefas e prazos atualizados. 
+
+![Recursos](img/02-resource-project.png)
+
+## Gestão de Orçamento*
+
+Duração do Projeto: 21/08/2023 a 04/12/2023 
+
+Custos de Recursos Humanos: 
+- 6 Desenvolvedores Juniores: 6 x R$3.000 (Valor mensal de um desenvolvedor junior)  
+- Gerente de Projeto: Incluído nas despesas dos desenvolvedores 
+##### Total Estimado: R$18.000  
+
+Custos de Equipamentos e Softwares:
+- Laptops (6 unidades): R$1.500 por unidade  
+- Software de Desenvolvimento (6 licenças): R$500 por desenvolvedor  
+##### Total Estimado: R$12.000   
+
+Custos Adicionais:
+- Cursos e treinamentos: R$475 por mês por desenvolvedor  
+- Marketing de Lançamento: R$2.000  
+##### Total Estimado: R$4.850   
+
+Reserva de Contingência:
+- 10% do Total Estimado
+##### Total Estimado: R$3.585   
+
+#### Custo Total Estimado: R$38.435 
+
+Monitoramento e Controle de Custos:
+
+- Revisar os gastos semanalmente para garantir que estejam alinhados com o orçamento. 
+- Qualquer desvio significativo do orçamento deve ser imediatamente comunicado à equipe e tomadas ações corretivas. 
+
+Revisões de Custos:
+- O plano de custos será revisado mensalmente para garantir que os gastos reais estejam de acordo com as estimativas. 
+- A reserva de contingência será usada apenas em casos de necessidade e com a aprovação do gerente de projeto. 
 
 ![Orçamento](img/02-orcamento.png)
+
+(*) Para todo esse plano foi considerado uma situação fictícia de valores e funções e recursos. 
