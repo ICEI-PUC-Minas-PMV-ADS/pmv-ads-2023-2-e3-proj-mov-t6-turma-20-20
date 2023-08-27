@@ -11,10 +11,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 Talita Reis dos Santos Pereira
+
 Jonathan Costa
+
 Renato Freitas
+
 Remilton Júnior 
+
 Rafael Fernando de Brito Oliveira
+
 Marcelo Ferreira
 
 ## Orientador
