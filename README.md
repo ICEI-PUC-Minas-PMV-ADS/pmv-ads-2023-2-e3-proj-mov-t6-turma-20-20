@@ -1,10 +1,10 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO`: Tecnologia em Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+`DISCIPLINA`: Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio 
 
-`SEMESTRE`
+`SEMESTRE`: Eixo 3
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
