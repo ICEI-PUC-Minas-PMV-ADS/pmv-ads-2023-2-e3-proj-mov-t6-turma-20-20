@@ -62,7 +62,7 @@ Com base nessas diretrizes, as telas do aplicativo foram projetadas de forma a a
 
 O diagrama de fluxo a seguir oferece uma visão geral clara e concisa do processo essencial envolvido em nosso aplicativo de venda e troca de livros. Este aplicativo foi projetado para tornar a experiência dos usuários na compra, venda e troca de livros o mais simples e intuitiva possível. Através deste diagrama, vamos explorar as etapas fundamentais que os usuários seguirão ao usar o aplicativo, desde o registro até a interação com outros membros da comunidade literária. Este diagrama serve como um guia prático para compreender o funcionamento do aplicativo, permitindo que os usuários naveguem facilmente pelos recursos oferecidos e alcancem seus objetivos de maneira eficaz. Aproveite a jornada de descoberta e compartilhamento de livros por meio deste aplicativo.
 
-![Diagrama de Fluxo](img/diagramafluxo.png)
+![Diagrama de Fluxo](img/diagramadefluxo_applivro.jpeg)
 
 
 ## Wireframes
