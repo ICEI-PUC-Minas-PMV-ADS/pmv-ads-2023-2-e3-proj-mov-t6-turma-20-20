@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Livro vai Livro vem</title>
+</head>
+<body>
+    <header>
+        <div class="menu-toggle" id="menuToggle">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+        </div>
+        <div class="logo">
+            <h1>Home</h1>
+        </div>
+    </header>
+    
+    <nav class="mobile-menu" id="mobileMenu">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Perfil</a></li>
+            <li><a href="#">Meus Livros</a></li>
+            <li><a href="#">Pesquisa</a></li>
+            <li><a href="#">sair</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section class="featured-book">
+            <h2>Livro em Destaque</h2>
+            <img src="img/ihc.png" alt="Livro em Destaque" onclick="location.href='livro-em-destaque.html';">
+        </section>
+
+        <section class="other-books">
+            <h2>Outros Livros</h2>
+        </section>
+
+        <section class="other-books">
+            <div class="book">
+                <img src="img/got.png" alt="Livro 1" onclick="location.href='livro1.html';">
+            </div>
+            <div class="book">
+                <img src="img/codigo-da-vinci.png" alt="Livro 2" onclick="location.href='livro2.html';">
+            </div>
+            <div class="book">
+                <img src="img/harrypotter 1.png" alt="Livro 3" onclick="location.href='livro3.html';">
+            </div>
+            <div class="book">
+                <img src="img/50.png" alt="Livro 4" onclick="location.href='livro4.html';">
+            </div>
+        </section>
+    </main>
+    
+    <script src="script.js"></script>
+</body>
+<footer>
+    <button class="ver-mais">Ver Mais</button>
+</footer>
+</html>
